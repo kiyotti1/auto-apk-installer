@@ -1,0 +1,8 @@
+id=auto_apk_installer
+name=Auto APK Installer
+version=v1.2
+versionCode=3
+author=kiyotti
+description=パッケージインストーラーの確認をスキップします。(内部ストレージにinstall_log.txtファイル設置してます。アプリのインストールを確認したときは見てみてください)
+minMagisk=1500
+
